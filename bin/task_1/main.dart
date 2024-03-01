@@ -28,8 +28,8 @@ $value плюс $value, получится ${value + value}''');
   //#
 dynamic timeNow = DateTime.now();
 
-  dynamic maybeJava = 'Java';
-  dynamic maybeFlutter = 'Flutter';
+  // dynamic maybeJava = 'Java';
+  // dynamic maybeFlutter = 'Flutter';
 
   dynamic favourite;
   favourite = '''maybeJavaandmaybeFlutter''';

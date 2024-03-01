@@ -16,6 +16,7 @@ void main() async {
   data.forEach((element) {
     int count = 0;
     for (String char in element.toString().split('')) {
+      print(char);
       count++;
     }
     print(count);

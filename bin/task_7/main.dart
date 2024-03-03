@@ -1,5 +1,3 @@
-import 'dart:math';
-
 void main() async {
   Cuboid(1, 2, 3);
 
